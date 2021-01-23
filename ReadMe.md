@@ -72,7 +72,7 @@ If you're seeing errors that look like
 `ampy.pyboard.PyboardError: could not enter raw repl`
 then this is probably related.
 
-In this case, set a delay to sleep the program when it iss uploading the files:
+In this case, set a delay to sleep the program when it is uploading the files:
 `export AMPY_DELAY=4` will usually do the trick.
 
 <a name="resources" />
